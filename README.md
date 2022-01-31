@@ -8,5 +8,8 @@ Note : The beta is coming out soon!
 Current status
 ---------------------------------
 Latest Version : NaN
+- - -
 Latest Build : 10
+- - -
 Latest Build date : 31/Jan/2021
+- - -
