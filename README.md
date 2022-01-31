@@ -13,3 +13,10 @@ Latest Build : 10
 - - -
 Latest Build date : 31/Jan/2021
 - - -
+
+Important notes about beta builds
+---------------------------------
+1- Beta builds will eventually expire and no longer run, but any saved data should work fine if you upgrade to the latest version.
+- - - -
+2- Beta Builds, especially early ones can have serious issues, report them in the issues tab if they are not already mentioned in known issues :)
+- - - -
