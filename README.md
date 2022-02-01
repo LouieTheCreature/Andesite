@@ -11,7 +11,7 @@ Latest Version : NaN
 - - -
 Latest Build : 10
 - - -
-Latest Build date : 31/Jan/2021
+Latest Build date : 1/Feb/2021
 - - -
 
 Important notes about beta builds
