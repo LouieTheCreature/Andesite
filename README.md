@@ -7,7 +7,7 @@ Note : The beta is coming out soon!
 
 Current status
 ---------------------------------
-Latest Version : NaN
+Latest Version : 1.0-Beta1
 - - -
 Latest Build : 10
 - - -
