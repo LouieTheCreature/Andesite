@@ -1,19 +1,19 @@
 # Andesite
 A password manager focused on security, simplicity, and ease of use
 
-Beta 2 is now live!, check it out
+Beta 3 is now live!, check it out
 - - - -
 
-![beta1](https://user-images.githubusercontent.com/79132875/151976329-2089cc15-34cd-4749-be55-2092dbe2dabc.png)
+![beta3](https://user-images.githubusercontent.com/79132875/154460411-b30a4ee0-ac5b-48f2-88ae-44c78cbd05ef.png)
 
 
 Current status
 ---------------------------------
-Latest Version : 1.0-Beta2
+Latest Version : 1.0-Beta3
 - - -
-Latest Build : 13
+Latest Build : 14
 - - -
-Latest Build date : 14/Feb/2021
+Latest Build date : 17/Feb/2021
 - - -
 
 Important notes about beta builds
