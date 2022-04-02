@@ -1,3 +1,4 @@
+As of April 2, 2022 , Andesite is no longer in active development 
 # Andesite
 A password manager focused on security, simplicity, and ease of use
 
